@@ -1,0 +1,27 @@
+{
+  "name": "generator-demo",
+  "version": "0.0.1",
+  "description": "generator-demo",
+  "bin": {
+    "generator-demo": "./bin/generator-demo"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xudafeng/generator-demo.git"
+  },
+  "dependencies": {
+  },
+  "keywords": ["generator-demo"],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/xudafeng/generator-demo",
+  "author": "xudafeng",
+  "email": "xudafeng[at]126.com",
+  "blog": "http://xdf.me",
+  "license": "MIT"
+}
