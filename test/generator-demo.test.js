@@ -13,7 +13,8 @@
 
 "use strict";
 
-var generator-demo = require('../');
+var generator-demo = require('..');
 
-describe('', function(){
+describe('', function() {
+
 });
