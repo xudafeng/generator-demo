@@ -1,6 +1,6 @@
 {
   "name": "generator-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generator-demo",
   "bin": {
     "generator-demo": "./bin/generator-demo",
