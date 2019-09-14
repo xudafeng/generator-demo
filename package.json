@@ -1,6 +1,6 @@
 {
   "name": "generator-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generator-demo",
   "bin": {
     "generator-demo": "./bin/generator-demo",
@@ -23,8 +23,5 @@
     "test": "mocha"
   },
   "homepage": "https://github.com/xudafeng/generator-demo",
-  "author": "xudafeng",
-  "email": "xudafeng[at]126.com",
-  "blog": "http://xdf.me",
   "license": "MIT"
 }
